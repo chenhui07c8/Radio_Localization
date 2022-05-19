@@ -5,7 +5,7 @@ This REPO contains the code for 5G/6G (mmWave/THz) radio localization and sensin
 \
 "Antenna Selection in Switch-Based MIMO Arrays via DOA threshold region Approximation"
 
-2. **Model Mismatch Analysis Globecom2022** | Matlab code for: 
+2. **Model Mismatch Analysis Globecom2022** | Matlab [\[code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/Model_Mismatch_Analysis_Globecom2022) for: 
 \
 "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective"
 \
