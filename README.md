@@ -13,6 +13,6 @@ Submitted to GLOBECOM 2022, Arxiv version coming soon.
 
 3. **THz Localization Tutorial Code** | Matlab code for: (will be available after final submission)
 \
-"A Tutorial on Terahertz-Band Localization for 6G Communication Systems" [preprint(https://arxiv.org/pdf/2110.08581.pdf)]
+"A Tutorial on Terahertz-Band Localization for 6G Communication Systems" [preprint](https://arxiv.org/pdf/2110.08581.pdf)
 \
 Accepted by IEEE Communication Surveys and Tutorials
