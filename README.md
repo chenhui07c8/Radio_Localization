@@ -9,7 +9,7 @@ ii) localization and optimization algorithms.
 \
 Accepted by IEEE Communication Surveys and Tutorials
 
-2. **Antenna Selection for Switch-Based MIMO** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/Antenna%20Selection%20for%20Switch-Based%20MIMO) For:
+2. **Antenna Selection for Switch-Based MIMO** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO) For:
 \
 "Antenna Selection in Switch-Based MIMO Arrays via DOA threshold region Approximation"
 
