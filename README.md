@@ -13,7 +13,7 @@ Accepted by IEEE Communication Surveys and Tutorials
 \
 "Antenna Selection in Switch-Based MIMO Arrays via DOA threshold region Approximation"
 
-3. **XL-MIMO Model Mismatch Analysis** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/Model_Mismatch_Analysis_Globecom2022) For: 
+3. **XL-MIMO Model Mismatch Analysis** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/3-XLMIMO_Model_Mismatch_Analysis) For: 
 \
 "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective"
 \
