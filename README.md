@@ -11,7 +11,7 @@ This REPO contains the code for 5G/6G (mmWave/THz) radio localization and sensin
 \
 Submitted to GLOBECOM 2022, Arxiv version coming soon.
 
-3. **THz Localization Tutorial Code** | Matlab Code For: (will be available after final submission)
+3. **THz Localization Tutorial Code** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1) For:
 \
 "A Tutorial on Terahertz-Band Localization for 6G Communication Systems" [\[preprint\]](https://arxiv.org/pdf/2110.08581.pdf)
 \
