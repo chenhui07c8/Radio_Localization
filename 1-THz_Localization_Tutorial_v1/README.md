@@ -12,3 +12,9 @@ Notes:
     "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments."
 5. Doppler effect not considered. Localization under UE mobility can be found in this work:\
     "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization."  *(coming soon, 30-May)*
+
+
+
+Please let me know if you have any questions or suggestions. I am happy for all types of discussions and collaborations in the topics of **5G/6G Radio Localization**
+\
+Email: hui.chen@chalmers.se; hui.chen@kaust.edu.sa
