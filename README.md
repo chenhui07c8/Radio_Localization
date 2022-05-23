@@ -18,5 +18,7 @@ Accepted by IEEE Communication Surveys and Tutorials
 "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective"
 \
 Submitted to GLOBECOM 2022, Arxiv version coming soon.
+\
 
-
+Please let me know if you have any questions or suggestions. :)
+Email: hui.chen@chalmers.se; hui.chen@kaust.edu.sa
