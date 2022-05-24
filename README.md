@@ -5,9 +5,7 @@ ii) localization and optimization algorithms.
 
 1. **THz Localization Tutorial Examples** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1) For:
 \
-"A Tutorial on Terahertz-Band Localization for 6G Communication Systems" [\[preprint\]](https://arxiv.org/abs/2110.08581)
-\
-Accepted by IEEE Communication Surveys and Tutorials
+&emsp; "A Tutorial on Terahertz-Band Localization for 6G Communication Systems," accepted by IEEE Commun. Surveys Tuts., 2022. [\[preprint\]](https://arxiv.org/abs/2110.08581)
 
 2. **Antenna Selection for Switch-Based MIMO** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO) For:
 \
