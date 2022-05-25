@@ -19,6 +19,8 @@ Submitted to GLOBECOM 2022, Arxiv version coming soon.
 
 
 **********
+You can find other localization-related works on my [[homepage]](https://chenhui07c8.github.io/publications/).
+**********
 -Please let me know if you have any questions or suggestions. Please consider citing our works if you find the code useful.\
 -I am open to all types of discussions and collaborations on the topics related to **5G/6G Radio Localization**. :)
 \
