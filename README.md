@@ -13,10 +13,7 @@ ii) localization and optimization algorithms.
 
 3. **XL-MIMO Model Mismatch Analysis** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/3-XLMIMO_Model_Mismatch_Analysis) For: 
 \
-"Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective"
-\
-Submitted to GLOBECOM 2022, Arxiv version coming soon.
-
+"Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective" [\[preprint\]](https://arxiv.org/abs/2205.15417)
 
 **********
 **********
