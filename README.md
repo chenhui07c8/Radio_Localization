@@ -1,7 +1,8 @@
 # Radio_Localization
-This REPO contains the code for 5G/6G (mmWave/THz) radio localization and sensing. The topics include: \
+This REPO contains the code for 5G/6G (mmWave/THz) radio localization and sensing. The (planned) topics include: \
 i). channel modeling and performance analysis; \
-ii) localization and optimization algorithms.
+ii). localization and optimization algorithms.
+
 
 1. **THz Localization Tutorial Examples** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1) For:
 \
