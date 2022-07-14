@@ -5,11 +5,11 @@ ii) localization and optimization algorithms.
 
 1. **THz Localization Tutorial Examples** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1) For:
 \
-"A Tutorial on Terahertz-Band Localization for 6G Communication Systems," accepted by IEEE Commun. Surveys Tuts., 2022. [\[preprint\]](https://arxiv.org/abs/2110.08581)
+"A Tutorial on Terahertz-Band Localization for 6G Communication Systems," accepted by IEEE Communications Surveys & Tutorials, 2022. [\[preprint\]](https://arxiv.org/abs/2110.08581)
 
 2. **Antenna Selection for Switch-Based MIMO** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO) For:
 \
-"Antenna Selection in Switch-Based MIMO Arrays via DOA threshold region Approximation" [\[preprint\]](https://arxiv.org/abs/2205.10807)
+"Antenna Selection in Switch-Based MIMO Arrays via DOA threshold region Approximation," accepted by IEEE Transactions on Vehicular Technology, 2022 [\[preprint\]](https://arxiv.org/abs/2205.10807)
 
 3. **XL-MIMO Model Mismatch Analysis** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/3-XLMIMO_Model_Mismatch_Analysis) For: 
 \
