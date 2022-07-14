@@ -10,7 +10,7 @@ ii). localization and optimization algorithms.
 
 2. **Antenna Selection for Switch-Based MIMO** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO) For:
 \
-"Antenna Selection in Switch-Based MIMO Arrays via DOA threshold region Approximation," accepted by IEEE Transactions on Vehicular Technology, 2022 [\[preprint\]](https://arxiv.org/abs/2205.10807)
+"Antenna Selection in Switch-Based MIMO Arrays via DOA Threshold Region Approximation," accepted by IEEE Transactions on Vehicular Technology, 2022 [\[preprint\]](https://arxiv.org/abs/2205.10807)
 
 3. **XL-MIMO Model Mismatch Analysis** | [\[Matlab Code\]](https://github.com/chenhui07c8/Radio_Localization/tree/main/3-XLMIMO_Model_Mismatch_Analysis) For: 
 \
